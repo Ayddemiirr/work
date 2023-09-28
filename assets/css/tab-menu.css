@@ -1,0 +1,46 @@
+body {
+    font-family: "Lato", sans-serif;
+}
+
+.tablink {
+    background-color: blue;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 25%;
+}
+
+.tablink:hover {
+    background-color: blue;
+}
+
+.tabcontent {
+    width: 92.3%;
+    position: absolute;
+    margin-top: 3.1%;
+    color: black;
+    display: none;
+    padding: 50px;
+    text-align: center;
+    border: 1px solid blue;
+}
+
+#Lucknow {
+    background-color: white;
+}
+
+#Mumbai {
+    background-color: white;
+}
+
+#Hyderabad {
+    background-color: white;
+}
+
+#Bengaluru {
+    background-color: white;
+}
